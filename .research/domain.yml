@@ -1,0 +1,9 @@
+schema_version: '1.0'
+domain:
+  id: terrorism-counterterrorism
+  label: Terrorism and Responses to Terrorism
+  repository: LystadJS/domain-terrorism-counterterrorism
+  status: planned
+  summary: Research on terrorist organizations, violent extremist behavior, and responses
+    to terrorism.
+  related_domains: []
