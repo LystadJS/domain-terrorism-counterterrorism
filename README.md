@@ -22,7 +22,9 @@ _Explain the methodological difficulties characteristic of this domain._
 
 <!-- JSL:AUTO-METHODS:START -->
 
-_Method links can be generated from projects registered to this domain._
+- [Missing Data and Measurement](https://github.com/LystadJS/method-missing-data) — 1 registered project
+- [Spatial and Geographic Statistics](https://github.com/LystadJS/method-spatial-statistics) — 1 registered project
+- [Statistical Computing and Visualization](https://github.com/LystadJS/method-statistical-computing) — 1 registered project
 
 <!-- JSL:AUTO-METHODS:END -->
 
@@ -30,6 +32,8 @@ _Method links can be generated from projects registered to this domain._
 
 <!-- JSL:AUTO-PROJECTS:START -->
 
-_Project links are generated from registered project manifests._
+| Project | Methods | Status |
+|---|---|---|
+| [Counterterrorism, Ethnosectarian Context and Islamic State Attack Patterns](https://github.com/LystadJS/counterterrorism_ethnosectarian_islamic_state) | Spatial and Geographic Statistics, Missing Data and Measurement, Statistical Computing and Visualization | Active |
 
 <!-- JSL:AUTO-PROJECTS:END -->
